@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.clip-rect {
+    clip-path: rect(0px, 75px, 150px, 0px);
+  }
